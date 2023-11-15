@@ -1,6 +1,6 @@
 # MTC-project-C-chain
 
-This program is a demonstration of how your own custom ERC20 token, the Degen Token or DGN, works after being deployed in the AVAX fuji testnet. The purpose of this program is to show how transactions are tracked in the fuji testnet by performing various different funcitons.
+This program is a demonstration of how your own custom ERC20 token, the Degen Token or DGN, works after being deployed in the AVAX fuji testnet. The purpose of this program is to show how transactions are tracked in the fuji testnet by performing various different functions.
 
 ## Description
 
