@@ -4,7 +4,7 @@ This program is a demonstration of how your own custom ERC20 token, the Degen To
 
 ## Description
 
-This program shows mainly the minting, burning, transferring, and redeeming of the DGN Tokens using different user accounts. Not only that, the program also shows the difference of "redeeming tokens in an in-game store" and actually burning it. Also, it uses the ERC20 standard for its functions.
+This program shows mainly the minting, burning, transferring, and redeeming of the DGN Tokens using different user accounts. Not only that, the program also shows the difference of "redeeming tokens in an in-game store" and actually burning it. Also, it uses the ERC20 standard for its functions. Other than that, the deploy.js file contains the account address that will serve as the owner of the contract. Furthermore, on the hardhat.config.js, the private key of the owner account and the api key generated from snowtrace.io is found. These are all crucial information that must be changed in order to properly run this code on your own device.
 
 ## Authors
 
